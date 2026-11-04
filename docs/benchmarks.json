@@ -2,7 +2,7 @@
   "adblock_test": [
     { "name": "Brave",     "score": 64,   "note": "measured" },
     { "name": "Chrome",   "score": 2,    "note": "measured" },
-    { "name": "Nyx 0.7.0", "score": 70%, "note": "" }
+    { "name": "Nyx 0.7.0", "score": 70, "note": "" }
   ],
   "starter_sample": { "blocked": 49, "total": 49, "allowed_ok": 6, "allowed_total": 6 },
   "page": "the ad blocker test page used while developing Nyx"
