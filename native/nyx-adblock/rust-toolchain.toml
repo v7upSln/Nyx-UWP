@@ -1,0 +1,6 @@
+# The UWP targets are Tier 3: no prebuilt std, so build-std (nightly) is required
+# for build-uwp.ps1. build-desktop.ps1 works with this toolchain too.
+[toolchain]
+channel = "nightly"
+components = ["rust-src"]
+profile = "minimal"

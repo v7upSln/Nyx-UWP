@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyx-UWP", "Nyx-UWP.csproj", "{744BE67F-47B0-4F66-9660-E8F22162C1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|arm64.ActiveCfg = Debug|arm64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|arm64.Build.0 = Debug|arm64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|arm64.Deploy.0 = Debug|arm64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|x64.ActiveCfg = Debug|x64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|x64.Build.0 = Debug|x64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|x64.Deploy.0 = Debug|x64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|x86.ActiveCfg = Debug|x86
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|x86.Build.0 = Debug|x86
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Debug|x86.Deploy.0 = Debug|x86
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|arm64.ActiveCfg = Release|arm64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|arm64.Build.0 = Release|arm64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|arm64.Deploy.0 = Release|arm64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|x64.ActiveCfg = Release|x64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|x64.Build.0 = Release|x64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|x64.Deploy.0 = Release|x64
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|x86.ActiveCfg = Release|x86
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|x86.Build.0 = Release|x86
+		{744BE67F-47B0-4F66-9660-E8F22162C1DE}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5065E6D2-3D91-43D2-AC37-52987878B61C}
+	EndGlobalSection
+EndGlobal
