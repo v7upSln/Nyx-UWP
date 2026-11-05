@@ -8,7 +8,7 @@
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-1C1B22?style=flat-square"></a>
 </p>
 
-Nyx is a lightweight browser for Xbox and Windows, with ad and tracker blocking built in. It's made with controller navigation in mind, while still working with a mouse and keyboard.
+Nyx is a lightweight browser for Xbox, with ad and tracker blocking built in. It's made with controller navigation in mind, while still working with a mouse and keyboard.
 
 ## Ad-blocking comparison
 
@@ -34,12 +34,8 @@ Grab the latest package from [Releases](https://github.com/v7upSln/Nyx-UWP/relea
 
 1. Enable Developer Mode on your console.
 2. Open the console's Device Portal from a PC.
-3. Go to *My games and apps* and install the Nyx package.
+3. Go to *My games and apps* and install the Nyx package and deps.
 4. Launch Nyx from your console.
-
-**Windows**
-
-Download and install the package from [Releases](https://github.com/v7upSln/Nyx-UWP/releases).
 
 ## Support
 
