@@ -11,7 +11,3 @@ Nyx is released under the GNU General Public License v3.0 (see `LICENSE`). It us
 | uBlock Origin and Brave filter lists | Downloaded at run time | see each list's repository |
 | [Octicons](https://github.com/primer/octicons) mark-github | GitHub mark on the new tab page | MIT |
 | WebView2, WinUI 2 (Microsoft) | Browser engine and controls | Microsoft license terms for the NuGet packages |
-
-The Nyx icon and banner are original work (`tools/brand.py`).
-
-The Chrome Web Store, YouTube and other names belong to their owners. Nyx is not affiliated with Brave Software, Mozilla, Google or Microsoft.
